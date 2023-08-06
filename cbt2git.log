@@ -1,0 +1,22 @@
+2023-08-06 03:31:13.128506 - Initialized conversion of CBT340
+2023-08-06 03:31:13.270674 - Received CBT.V505.FILE340.PDS from FILE340.XMI 
+2023-08-06 03:31:13.273294 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:31:13.274348 - Found $ASM.jcl (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/$ASM
+2023-08-06 03:31:13.275361 - Found $LINK.jcl (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/$LINK
+2023-08-06 03:31:13.275370 - Found $MACLIB.bin containing application/octet-stream, moved to PDS/$MACLIB
+2023-08-06 03:31:13.277388 - Found $README.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/$README
+2023-08-06 03:31:13.278278 - Found @FILE340.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/@FILE340
+2023-08-06 03:31:13.279225 - Found DCMCLEAR.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMCLEAR
+2023-08-06 03:31:13.280171 - Found DCMCMBG.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMCMBG
+2023-08-06 03:31:13.281118 - Found DCMCONVD.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMCONVD
+2023-08-06 03:31:13.282101 - Found DCMDSPLY.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMDSPLY
+2023-08-06 03:31:13.283085 - Found DCMINIT.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMINIT
+2023-08-06 03:31:13.284086 - Found DCMINPUT.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMINPUT
+2023-08-06 03:31:13.285025 - Found DCMIOERR.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMIOERR
+2023-08-06 03:31:13.285888 - Found DCMMAIN.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMMAIN
+2023-08-06 03:31:13.286904 - Found DCMSCRN.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMSCRN
+2023-08-06 03:31:13.287920 - Found DCMSTATS.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/DCMSTATS
+2023-08-06 03:31:13.288978 - Found MACLIB.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/MACLIB
+2023-08-06 03:31:13.289934 - Found README.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/README
+2023-08-06 03:31:13.290817 - Found REPLAYP.txt (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/REPLAYP
+2023-08-06 03:31:13.291828 - Found REXX.rexx (text/plain) in CBT.V505.FILE340.PDS, moved to PDS/REXX
